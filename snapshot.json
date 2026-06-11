@@ -1,0 +1,116 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-06-10",
+  "updatedAt": "2026-06-10T22:00:00Z",
+  "exportedAt": "2026-06-10T22:00:00Z",
+  "data": {
+    "DISTRICT": {
+      "id": "ia-03",
+      "name": "IA-03 (US Congressional District)",
+      "state": "Iowa",
+      "counties": [
+        "Polk",
+        "Dallas",
+        "Pottawattamie",
+        "Story (parts)",
+        "rural SW Iowa"
+      ]
+    },
+    "UPDATES": [],
+    "CONFLICTS": [],
+    "NEWS": [
+      {
+        "headline": "DCCC adds Sarah Trone Garriott to 2026 Red to Blue program targeting IA-03",
+        "sourceName": "DCCC",
+        "url": "https://dccc.org/2026-red-to-blue/",
+        "publishedAt": "2026-06-10",
+        "relevanceSummary": "The Democratic Congressional Campaign Committee officially added Iowa State Senator Sarah Trone Garriott to its competitive Red to Blue program, designating IA-03 \u2014 the Des Moines-area district currently held by Republican Zach Nunn \u2014 as a top target for a November flip. The program provides top-tier candidates with organizational and fundraising support.",
+        "tag": "primary",
+        "id": "news-2026-0610-ia-03-01",
+        "reviewState": "new"
+      },
+      {
+        "headline": "Unofficial Results from Primary Election \u2014 Guthrie County (IA-03)",
+        "sourceName": "Lake Panorama Times",
+        "url": "https://lakepanoramatimes.com/news/unofficial-results-from-primary-election/",
+        "publishedAt": "2026-06-10",
+        "relevanceSummary": "Guthrie County (a rural IA-03 county in the Dallas/southwest Iowa corridor) published unofficial June 2 primary results showing Republican Zach Nunn receiving 1,455 uncontested votes and Democrat Sarah Trone Garriott 423 uncontested votes. Results remain unofficial pending formal canvass by the Guthrie County Board of Supervisors.",
+        "tag": "certification",
+        "id": "news-2026-0610-ia-03-02",
+        "reviewState": "new"
+      },
+      {
+        "headline": "Kentucky Gov. Andy Beshear hosts 'Beers with Beshear' fundraiser for IA-03 challenger Sarah Trone Garriott",
+        "sourceName": "Associated Press (via ABC News)",
+        "url": "https://abcnews.com/US/wireStory/rob-sand-rally-iowa-governor-bid-kentucky-gov-andy-beshear-as-democrats-eye-a-flip/",
+        "publishedAt": "2026-06-07",
+        "relevanceSummary": "Kentucky Governor Andy Beshear, chair of the Democratic Governors Association and a potential 2028 presidential candidate, headlined a fundraiser in Des Moines for congressional candidate Sarah Trone Garriott, who is challenging incumbent Republican Rep. Zach Nunn in IA-03. Democrats note the district, which includes Des Moines, is considered competitive; Republicans still hold a roughly 200,000-voter statewide registration advantage.",
+        "tag": "primary",
+        "id": "news-2026-0610-ia-03-03",
+        "reviewState": "new"
+      },
+      {
+        "headline": "Iowa 3rd Congressional District had uncontested primary but 'still a big race' heading to November: Nunn vs. Trone Garriott",
+        "sourceName": "Iowa PBS / YouTube \u2014 This Week in Iowa Politics",
+        "url": "https://www.youtube.com/watch?v=Zw0lEINg4uc",
+        "publishedAt": "2026-06-05",
+        "relevanceSummary": "Post-primary recap coverage confirmed that both IA-03 candidates \u2014 Republican Rep. Zach Nunn and Democrat Sarah Trone Garriott \u2014 ran uncontested in their June 2 primaries, advancing directly to the November 3 general election. Analysts called it 'a race we're going to hear more and more about,' noting Democrats believe they can win the district.",
+        "tag": "primary",
+        "id": "news-2026-0610-ia-03-04",
+        "reviewState": "new"
+      },
+      {
+        "headline": "Analyzing Iowa's primary election results: Nunn-Trone Garriott uncontested in IA-03 as Democratic turnout surges statewide",
+        "sourceName": "Iowa Politics with Laura Belin (Substack)",
+        "url": "https://laurabelin.substack.com/p/analyzing-iowas-primary-election",
+        "publishedAt": "2026-06-04",
+        "relevanceSummary": "Laura Belin's authoritative post-primary analysis confirmed there was no competition on either side in IA-03, with Zach Nunn and Sarah Trone Garriott advancing unopposed. The piece also flagged a new election-law change relevant to the general election: under HF 954 (signed 2025), independent and third-party candidates had to file nominating papers by June 2 \u2014 Libertarian Marco Battaglia qualified for the IA-03 ballot under this new earlier deadline.",
+        "tag": "administration",
+        "id": "news-2026-0610-ia-03-05",
+        "reviewState": "new"
+      },
+      {
+        "headline": "Primary results will become official when county boards of supervisors vote to certify local elections \u2014 Iowa SOS posts unofficial returns",
+        "sourceName": "Radio Iowa",
+        "url": "https://www.radioiowa.com/2026/06/04/turek-won-96-counties-lahn-won-21-of-36-counties-in-feenstras-congressional-district/",
+        "publishedAt": "2026-06-04",
+        "relevanceSummary": "Iowa Secretary of State Paul Pate's office published unofficial June 2 primary results showing nearly 20% statewide turnout (411,525 total ballots, up from 356,140 in 2022); results in IA-03's Polk, Dallas, Pottawattamie, and other counties remain unofficial until each county's Board of Supervisors completes its canvass. Radio Iowa reported the certification trigger and noted Democratic primary turnout rose from ~159,000 in 2022 to ~192,000 in 2026.",
+        "tag": "certification",
+        "id": "news-2026-0610-ia-03-06",
+        "reviewState": "new"
+      }
+    ],
+    "SOURCES": [],
+    "ELECTION_EVENTS": [],
+    "RULES": [],
+    "RESOURCES": [],
+    "LAST_REFRESH": {
+      "id": "run-2026-06-10T22-00-00-ia-03",
+      "startedAt": "2026-06-10T21:59:30.000Z",
+      "completedAt": "2026-06-10T22:00:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 9,
+      "updatesCreated": 0,
+      "conflictsCreated": 0,
+      "errors": [],
+      "summary": "IA-03 weekly refresh on 2026-06-10. Status: Iowa primary (held), 8 days post-primary; general Nov 3. Incumbent: Rep. Zach Nunn (R); opponent: Democrat Sarah Trone Garriott; Libertarian Marco Battaglia qualified. Six new news items added covering the past week (Jun 3-10). IA-03 set for a competitive Nunn vs. Trone Garriott general election; DCCC added Trone Garriott to its Red to Blue program on June 10. New Iowa law HF 954 moved the third-party filing deadline to June 2 for the first time \u2014 Libertarian Marco Battaglia qualified for the IA-03 ballot. County canvasses are running through mid-June. Procedural rules and election-event dates unchanged from the bundle baseline; all news items routed to the human-review queue for editor confirmation."
+    },
+    "NEXT_REFRESH_AT": "2026-06-12T22:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-2026-w24-ia-03",
+      "periodStart": "2026-06-08",
+      "periodEnd": "2026-06-14",
+      "sourcesChecked": 9,
+      "newUpdates": 0,
+      "conflictsCreated": 0,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 6,
+      "sourceErrors": 0,
+      "summary": "IA-03 set for a competitive Nunn vs. Trone Garriott general election; DCCC added Trone Garriott to its Red to Blue program on June 10. New Iowa law HF 954 moved the third-party filing deadline to June 2 for the first time \u2014 Libertarian Marco Battaglia qualified for the IA-03 ballot. County canvasses are running through mid-June.",
+      "generatedAt": "2026-06-10T22:00:00Z"
+    }
+  }
+}
